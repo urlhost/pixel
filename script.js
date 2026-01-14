@@ -27,7 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }, terminalFinishTime + 300);
     };
-
-    initializeLogo();
+    
     runTerminal();
 });
